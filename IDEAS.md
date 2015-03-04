@@ -9,9 +9,9 @@ Schedule Manger/Creator
 - select what type of academic cycle you're on (term/semester)
 - give time frames for blocks (9-10 for band, etc)
 - the app would then add each event for the entire year for each individual class to your Calendar
-- Have an alarm for a user defined interval before a class (Really usefull for college)
+- Have an alarm for a user defined interval before a class (Really useful for college)
 - Notes section for each block (something like a reminder)
-- Ablity to synce with multi devices/cross platfrom 
+- Ablity to sync with multi devices/cross platfrom 
 
 
 Instant music player (without data or local files)
