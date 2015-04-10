@@ -35,7 +35,6 @@ Here are a few of mine
 - This has been done before but I basically just want to improve upon it
 - Make simple commands like `forecast local`, `forecast V3A2Z6`, `forecast Vancouver`
 - Save all user settings (postal/zip code, city, province/state, country, etc) in `~/.forcast.json` for easy snatchin
-- 
 
 ## CLI Card game on localhost
 - [I've kind of made this already but it's buggy af ](https://github.com/probablyjosh/cards) and it also doesn't work on localhost or support anything other than Blackjack
