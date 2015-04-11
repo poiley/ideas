@@ -14,6 +14,12 @@ Here are a few of mine
 - Notes section for each block (something like a reminder)
 - Ablity to sync with multi devices/cross platfrom 
 
+##Homework Databases
+- Basically a website that takes answers to worksheets from across the web and puts them in one place
+- Seach through documents, catagorized by subject
+- Like [Khan Academy](https://khanacademy.com/) but more open source
+- We must give credit to original answer makers
+- Prototype up at [HomeHelp.tk](HomeHelp.tk)
 
 ## Instant Music Player (without data or local files)
 - text [Twilio](twilio.com) number with your song choice
