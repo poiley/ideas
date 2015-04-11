@@ -19,7 +19,7 @@ Here are a few of mine
 - Seach through documents, catagorized by subject
 - Like [Khan Academy](https://khanacademy.com/) but more open source
 - We must give credit to original answer makers
-- Prototype up at [HomeHelp.tk](HomeHelp.tk)
+- Prototype up at [HomeHelp.tk](https://HomeHelp.tk)
 
 ## Instant Music Player (without data or local files)
 - text [Twilio](twilio.com) number with your song choice
