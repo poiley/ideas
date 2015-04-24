@@ -50,3 +50,8 @@ Here are a few of mine
 - Essentially Tinder but more location orientated
 - when signing up, checks your current location and if it's a school sets that as your school
 - only shows people from the school or possibly schools very close in proximity
+
+## Fully Text (SMS) based Twitter
+- Text number with Twitter Credentials, and it returns with 10 tweets
+- These tweets are ordered and numbered, so the user can reply "2 RT" to retweet the second tweet sent through SMS
+- This is already done sort of by Twitter already, but it needs improvement
