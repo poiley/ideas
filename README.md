@@ -5,6 +5,12 @@ For every time I get passionate. Feel more than welcome to contribute or fork.
 We all have stuff that might be cool to actually see working.
 Here are a few of mine
 
+## Email CLI
+ - -e "_EMAIL_" Email Address to send to 
+ - -m "_MESSAGE_" The Message to send
+ - -s "_SUBJECT_" The Subject to attach to the email
+
+
 ## Schedule Manger/Creator
 - input all blocks you're in
 - select what type of academic cycle you're on (term/semester)
