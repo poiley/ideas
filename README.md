@@ -7,8 +7,8 @@ Here are a few of mine
 
 ## Desktop Image Grabber
  - Starts with search bar and three select buttons that represent Instagram, Facebook and Twitter.
- --* Input search (username) and select one of the three social networks.
- --* Returns all images from user inputed.
+  * Input search (username) and select one of the three social networks.
+  * Returns all images from user inputed.
  - Select image(s) with button in top right of image thumbnail. Button in bottom right of window to save selected images.
  - Clicking thumbnail of image expands it.
  - White and minimalistic design.
@@ -35,13 +35,13 @@ Here are a few of mine
 
 ## TTT social Network
  - Blogs (Like Reddit+4chan+Twitter)
- --* Random (4chan.org/b for ttt)
- --* Rant (I am sick and tired of ____ so I'm going to complain here so other people can justify me and create one massive circlejerk.)
- --* Stories (Fiction or Non fiction. Open place to write stuff.)
+  * Random (4chan.org/b for ttt)
+  * Rant (I am sick and tired of ____ so I'm going to complain here so other people can justify me and create one massive circlejerk.)
+  * Stories (Fiction or Non fiction. Open place to write stuff.)
  - News (Cool tech news or things we've been doing)
  - Startups (Look at my business!)
  - Ideas
- --* Team Search (I need someone to help me build _____. I need someone who knows ____.)
+  * Team Search (I need someone to help me build _____. I need someone who knows ____.)
  - Skills/About Us/The team (I am ___ and I know ____ languages. I am passionate about _____)
 
 ## Email CLI
